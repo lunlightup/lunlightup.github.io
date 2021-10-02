@@ -8,12 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lunlightup.github.io/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Post</title>
+      <title>Курс &#34;Understanding TypeScript&#34; от Udemy</title>
       <link>https://lunlightup.github.io/post/first-post/</link>
       <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://lunlightup.github.io/post/first-post/</guid>
-      <description>Hi! This post coming soon.</description>
+      <description>Привет!
+В первом посте похвастюсь прохождением курса - &amp;ldquo;Understanding TypeScript -2021 Edition&amp;rdquo; от Maximilian Schwarzmüller.
+Об авторе Автор немец, но курсы записывает на английском. Язык не сложный, говорит очень четко и размеренно, иногда даже начала ускорять скорость видео)) По началу смотрела с субтитрами, сейчас просто на слух.
+Мне очень нравится его бодрая и конструктивная манера изложения, если смотрю утром - то очень хорошо настраивает на рабочий продуктивный день.
+Заодно и английский потихоньку прокачивается.</description>
     </item>
     
   </channel>
