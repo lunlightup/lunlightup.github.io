@@ -1,0 +1,9 @@
+.profile {
+    width: 30vh;
+    height: 30vh;
+    border-radius: 50%;
+}
+
+.intro {
+    transform: translateY(10vh);
+}
