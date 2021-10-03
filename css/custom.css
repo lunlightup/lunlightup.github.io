@@ -7,3 +7,12 @@
 .intro {
     transform: translateY(10vh);
 }
+
+.content {
+    padding: 1rem 0.5rem 0 0.5rem;
+    text-align: left;
+}
+
+.intro > h1 {
+    font-size: 9vh;
+}
