@@ -1,6 +1,6 @@
 .profile {
-    width: 30vh;
-    height: 30vh;
+    width:20vh;
+    height: 20vh;
     border-radius: 50%;
 }
 
@@ -9,10 +9,23 @@
 }
 
 .content {
-    padding: 1rem 0.5rem 0 0.5rem;
+    padding: 20px 0.5rem 0 0.5rem;
     text-align: left;
 }
 
 .intro > h1 {
-    font-size: 9vh;
+    font-size: 7vh;
+}
+
+.intro > h2 {
+    font-size: 3vh;
+}
+
+.navbar.navbar-default {
+    border-top: 5px solid orange;
+}
+
+footer {
+    border-bottom: 5px solid orange;
+    flex: 0 0 auto;
 }
