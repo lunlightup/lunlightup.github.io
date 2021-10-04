@@ -6,11 +6,9 @@
 
 .intro {
     transform: translateY(10vh);
-    min-height: 550px;
 }
 
 .content {
-    padding: 20px 0.5rem 0 0.5rem;
     text-align: left;
 }
 
@@ -20,13 +18,4 @@
 
 .intro > h2 {
     font-size: 3vh;
-}
-
-.navbar.navbar-default {
-    border-top: 5px solid orange;
-}
-
-footer {
-    border-bottom: 5px solid orange;
-    flex: 0 0 auto;
 }
