@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Любовь Вашпанова</title>
-    <link>https://lunlightup.github.io/post/</link>
-    <description>Recent content in Posts on Любовь Вашпанова</description>
+    <title>book on Любовь Вашпанова</title>
+    <link>https://lunlightup.github.io/categories/book/</link>
+    <description>Recent content in book on Любовь Вашпанова</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Sun, 07 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lunlightup.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lunlightup.github.io/categories/book/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Джедайские техники</title>
       <link>https://lunlightup.github.io/post/jedi-techs/</link>
@@ -16,18 +16,6 @@
       <description>Два с половиной года назад тимлид команды, в которой я тогда работала, посоветовал мне книгу Макса Дорофеева &amp;ldquo;Джедайские техники&amp;rdquo;.
 На тот момент я только вышла из декрета и была в состоянии сильного личного кризиса. Жила с ощущением вечной нехватки времени, горящих сроков и практически не уделяла времени своему развитию. Просто выполнение текущих задач съедало все мое время. Вернее, мыслетопливо, как бы я сейчас выразилась )
 Начав слушать книгу по дороге на работу / домой я поняла во-первых, чем вызваны эти проблемы и что они довольно типовые, во-вторых начала понемногу внедрять техники.</description>
-    </item>
-    
-    <item>
-      <title>Курс &#34;Understanding TypeScript&#34; от Udemy</title>
-      <link>https://lunlightup.github.io/post/first-post/</link>
-      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://lunlightup.github.io/post/first-post/</guid>
-      <description>Привет!
-В первом посте похвастюсь прохождением курса - &amp;ldquo;Understanding TypeScript -2021 Edition&amp;rdquo; от Maximilian Schwarzmüller.
-Об авторе Автор немец, но курсы записывает на английском. Язык не сложный, говорит очень четко и размеренно, иногда даже начала ускорять скорость видео)) По началу смотрела с субтитрами, сейчас просто на слух.
-Мне очень нравится его бодрая и конструктивная манера изложения, если смотрю утром, то очень хорошо настраивает на рабочий продуктивный день. Заодно и английский потихоньку прокачивается.</description>
     </item>
     
   </channel>

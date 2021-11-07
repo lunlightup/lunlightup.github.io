@@ -6,7 +6,7 @@
     <description>Recent content on Любовь Вашпанова</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lunlightup.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lunlightup.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Github</title>
       <link>https://lunlightup.github.io/project/project1/</link>
@@ -14,6 +14,17 @@
       
       <guid>https://lunlightup.github.io/project/project1/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Джедайские техники</title>
+      <link>https://lunlightup.github.io/post/jedi-techs/</link>
+      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lunlightup.github.io/post/jedi-techs/</guid>
+      <description>Два с половиной года назад тимлид команды, в которой я тогда работала, посоветовал мне книгу Макса Дорофеева &amp;ldquo;Джедайские техники&amp;rdquo;.
+На тот момент я только вышла из декрета и была в состоянии сильного личного кризиса. Жила с ощущением вечной нехватки времени, горящих сроков и практически не уделяла времени своему развитию. Просто выполнение текущих задач съедало все мое время. Вернее, мыслетопливо, как бы я сейчас выразилась )
+Начав слушать книгу по дороге на работу / домой я поняла во-первых, чем вызваны эти проблемы и что они довольно типовые, во-вторых начала понемногу внедрять техники.</description>
     </item>
     
     <item>
@@ -34,7 +45,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lunlightup.github.io/about/</guid>
-      <description>Привет! Меня зовут Любовь Вашпанова, я frontend-разработчик, живу в Перми.
+      <description>Привет! На связи Любовь Вашпанова. Я frontend-разработчик, живу в Перми.
 Это мой блог, где я делюсь наблюдениями, полезными ссылками, опытом, мнением о прочитанных книгах, посещенных конференциях и т.д.
 Любая обратная связь, вопросы и предложения very welcome - в комментариях или на почту.
 Приятного чтения!</description>
